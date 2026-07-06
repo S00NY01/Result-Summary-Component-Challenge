@@ -17,10 +17,10 @@ Your users should be able to:
 ### Screenshot
 
 Desktop:
-![Design preview for the Social links profile component challenge](./design//Activ-Screenshot.png)
+![Design preview for the Social links profile component challenge](./design/Desktop-Screenshot.png)
 
 active states:
-![Design preview for the Social links profile component challenge](./design//Activ-Screenshot.png)
+![Design preview for the Social links profile component challenge](./design/Activ-Screenshot.png)
 
 Mobile:
 
